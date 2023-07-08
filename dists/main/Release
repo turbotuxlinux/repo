@@ -1,0 +1,25 @@
+Date: Sat, 08 Jul 2023 05:22:46 +0000
+MD5Sum:
+ eaff778ab5549396938481cc36a94ba7               38 Release
+ 53b69c964f77fe4ad5bfb60077e10532             2537 binary-amd64/Packages
+ 6f695817eea9ddb0a0a6ff75e99e7e17             1105 binary-amd64/Packages.gz
+ 68b329da9893e34099c7d8ad5cb9c940                1 binary-i386/Packages
+ f1f3045e4ecc0322c1b44a0cbca5bc96               30 binary-i386/Packages.gz
+SHA1:
+ 1947b6a99da5044077a9127b27b937344b9ba564               38 Release
+ c17502fc3746faaafffa6f0d394d719785105a8f             2537 binary-amd64/Packages
+ 64d92cf7c1d38ab2014e9716dc177624fc0a6dc6             1105 binary-amd64/Packages.gz
+ adc83b19e793491b1c6ea0fd8b46cd9f32e592fc                1 binary-i386/Packages
+ 79b6fba05ba3ebf358f4b7a59c27bf679b34316f               30 binary-i386/Packages.gz
+SHA256:
+ 89852d5324fe0d9a77834744c44bc27e5daab1b987d3eb387cc65709656822a6               38 Release
+ ad7cb74b53f3c4db6f205384163c3cf1f798171634f5359213766c1971fd9ac6             2537 binary-amd64/Packages
+ 5f0db54fc69afcaf0b1d7520cf054f013a141e2ab1f08fdaeb5844b55bf0a7fe             1105 binary-amd64/Packages.gz
+ 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b                1 binary-i386/Packages
+ c0d7a355cd42ed20fa4d6e9d6b62ba514efb5e6ac3667236df8afe74633770ae               30 binary-i386/Packages.gz
+SHA512:
+ 35715784ea5dcc057a00fd9b88e29ae2e16e8c5509e5e146ab8391d4f014b57e7b25b637c6cb1d20780310c1c33df1925570c0ba7f0943883b0dc1f562376ba9               38 Release
+ dd07af1330a981ca6a03196f796fa180f518bf259864710fb825ca8fafa06204694471d19ca5c58af22e7fad9bb24dfbf3d5185a19853b488947a07d0302a7b1             2537 binary-amd64/Packages
+ 5226655fbe304f7c1bb76bd11d4c067579437ab3f8bd85c06437fbc08dcf28f26dd5595ca5df65753a8080a7559942213694e860bc4b938e8b21dca84517c03b             1105 binary-amd64/Packages.gz
+ be688838ca8686e5c90689bf2ab585cef1137c999b48c70b92f67a5c34dc15697b5d11c982ed6d71be1e1e7f7b4e0733884aa97c3f7a339a8ed03577cf74be09                1 binary-i386/Packages
+ a60779cc8a6f48be64ab4c63eb460fd95bbcd5f0cdeeff66f59c60ff10f1d63e1f2962bf63e38d5d5800bf69206d9d9b8aff1bee2d8b6ba27deb72b747ae820b               30 binary-i386/Packages.gz
