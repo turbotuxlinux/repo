@@ -5,20 +5,20 @@ Origin: TurboTux
 Label: TurboTux Gaming Linux
 Suite: stable
 Codename: stable
-Architectures: amd64
+Architectures: amd64 i386
 Components: main
 Description: TurboTux - The Gaming Linux Distro's Package Repo
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEWNWOm68RKMq2z4laz+dzHX8oCVoFAmStsvYACgkQz+dzHX8o
-CVpm8Qv/ZRLzfPtRnviH6yr0wrsSkUNAsJFCyVFbC0ADc22tz6EHTHwOgZ4/8LRC
-ZIhaXvkRSnk1mTdrYsD2Xzn+57llMsM4ajtWI4BaUIY7gCH9JdaLMBWOlB7Uhgt1
-M4IHI9tvDANWXXo+idaV0jmglHSesl7PXxwOfyONn2JZwh34mjAGtocExOhTUM9N
-yYdBInjDWm9EyThbQHdEGUo9ZRCvcdgF2Kc1jnzEMXpkCRXj+xt1KSTgVAxBxala
-F/bBJ3aSXu02dgHi3OtEPGJLN/Sz6oUkVswafoXRB1DrUdeFVdUHgoWu6u7jRbaz
-p5pkKuvXPpLW07UPz5NncKA0vUAVJhLDQqjZ7yim6ZYMQ3Cvlf3TBz+YoSmPjxjn
-DzUuznVhDn+sgFw9W7d8DVm0aoXO/lNmqLTVoxsBMvDIDKIIcwV00QnhG52vijBd
-uoz/qZpFe5njSbqqf/9B0xgGK12XGzl8xRhJxtlf01UN99goehrfzGd/IpFJj3+Z
-d/pqNAYW
-=RiKb
+iQGzBAEBCgAdFiEEWNWOm68RKMq2z4laz+dzHX8oCVoFAmSttTYACgkQz+dzHX8o
+CVohdQv8CzX+uwz7Y6f7Mc3Z+ofA5Ujg2XCVPv84eyFiAQzvpXisH/PrzINGKt3q
+EJ1STmLu0GQolSL5qlaIywzEhI8uoam5xC5mG7MoYTI/G2pe7Zkfh4zSY7dAXdXU
+tbI9AUY4OanL0eec5pTWxRacwO4DdGcV4/Gcrt5Le6AFbsYa0It9OdppiBNGf0DP
+dy8fu4MeI0aUa/yrzv5JRyvll2ZFB0xt8UZGJUCRcY7eEWJC7/1FSzmpEqSL+CeP
+g0J6770vj2ZZQV+31BJ+RIWHmTMR47uFNt6AGjdLXi21VtfShNLNgn6gxcSfVfiT
+77IcJFzyazkyNRrpRACGM4kf6G/vkLYtyHSoZrnKyNXzyTI/T37UmFkB3/qjHb0/
+pKp7pdLAOyWi27SJ8iz6GjV6e9YjW4WmAWBEimMhH/QC3g+mD9eE3uvnEJHD2oMr
+IFsJWwA3T+TD4dgZsewO5WpCRSASwrhzeUmq9U9iAM9sT0HDxyDBIf400T/9sPyd
+B2BjgBLv
+=qzKw
 -----END PGP SIGNATURE-----
