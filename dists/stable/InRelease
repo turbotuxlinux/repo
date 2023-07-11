@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: TurboTux
+Label: TurboTux Gaming Linux
+Suite: stable
+Codename: stable
+Date: Tue, 11 Jul 2023 19:36:16 UTC
+Architectures: amd64
+Components: main
+Description: TurboTux - The Gaming Linux Distro's Package Repo
+MD5Sum:
+ 235b83dbeb1904c528148ae3c488f198              988 Release
+ b14b991fe6ca3ecb73dde09ef317f880             2558 main/binary-amd64/Packages
+ 7ffae7599de59e1c3e2bd918e68e8193             1109 main/binary-amd64/Packages.gz
+ e0b34c85570cdc7c8d8325a21193b761              161 main/binary-amd64/Release
+SHA1:
+ e1b1358a9bd4872dc4d8e14a05237775e0acaf01              988 Release
+ 9482343902aff3362b902aa5c1109c2583869437             2558 main/binary-amd64/Packages
+ 8b5c1eef0df95b6c8451295e6682bb1ef2919fbc             1109 main/binary-amd64/Packages.gz
+ 97bcb6674b7a306feccc1e169d8ea81b6b0e9d48              161 main/binary-amd64/Release
+SHA256:
+ 984cea1d52f381185689348cbae5b8b41aa37ebbb74b5575f4d0460cc0083a91              988 Release
+ d6d02af5e98f0ba621969c70e325995d42d91faec789b084e2c2c3830617ebde             2558 main/binary-amd64/Packages
+ ebef6e7e91763fc4b5f9e2f91361f6574608dd401dca04e5fcf6eabb588f5037             1109 main/binary-amd64/Packages.gz
+ 2418ee0f290009324559b88d76335abf422b583adefafa7a50ce49c842586f2a              161 main/binary-amd64/Release
+SHA512:
+ 643a11818f7589a012cfbdfb856a48f2caf35ec11095701bd1afa2f3ff7e8832294211cd0e58fb793ac6828d153fe7c9630a11117515b9845158b39ce060f99f              988 Release
+ bc4f52d2b7a5daf2e937f42d36b5c2cb5e65523a53bf0b471e41f3c2a79662e7be78db4003835f06e360d53d7f9b03d6a1dbd800efb6390841fcb5a09096172b             2558 main/binary-amd64/Packages
+ 63448755c4d866f45fdc09f4c7b53fd9b87d5813247f71dcbed7e7f7021f453ab163f27bdbc246893f3e39bc14fa17d7b1162a1db7b23c96fa740735407c77ee             1109 main/binary-amd64/Packages.gz
+ 4f57483d1f746b845cc1e26aa419dfa8ba47b4838f6956bbd21a18a2fa3039aea81710c43e6785b1bcf5b5f953f992850e9a9da4640e743a76fe9edd9c73ce89              161 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEWNWOm68RKMq2z4laz+dzHX8oCVoFAmSts5kACgkQz+dzHX8o
+CVpnhQv/dabSaBKKcafrRLVMyLjGhsOQIpmvbrmipMqJbL5kKD+HhpC32mnXSNAr
+gtSU0/Vh9Z3f8oVX4hWO/cpWF6PpqPD7TQJYd2pYLR6Xcql+eqIk52PHnDQKn9x8
+nuOJ/AdisTgztiFNk2L0tjyi8CzH67BZa2PnZ7j7Sf15TjitvQB5yk7l1LfzMTwO
+ip1boabbTnGIvsNraJvuClRy1RP9bNNN/z9+XseOqtY9sC1ZvszcY3PygLy+nQ/5
+vrvZrRk5WPOPukmFk1hfJ7bKdgAzcCEnDgV5QFPOfwddPgeY3kS1KO8nluaqGHU8
+i2xFxCAayo/oLjfA/JaZjJP2M4fpigMYLSZg5BkAtqZt7i4p+F0OPowEw22MrHWX
+s4N52fmIagcOoXIWiP/wQNOLrju1rcpW3PTATz+F4jwD3gzKnoJCFhIspxAzn9Y+
+G0CBDyJ+xITblf9kQ01WlVV59UneDggQRbMd0J5ohhC3cjDvvA7zNA0WiRp/i3kD
+KPKMUFuO
+=FUb/
+-----END PGP SIGNATURE-----
