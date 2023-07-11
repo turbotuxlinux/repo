@@ -5,3 +5,37 @@ Codename: stable
 Architectures: amd64
 Components: main
 Date: Sun, 09 Jul 2023 10:13:00 +1200
+
+Date: Sun, 09 Jul 2023 05:18:25 +0000
+MD5Sum:
+ 4814bc6406bf7d844883e87bc35df197               38 Release
+ b14b991fe6ca3ecb73dde09ef317f880             2558 main/binary-amd64/Packages
+ 7795214f9752d34e7ed2debfe929976b             1109 main/binary-amd64/Packages.gz
+ 0d0ebbe9b7a2e849226b4aeb8e01a6a2             1204 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-i386/Packages
+ 5e5b0b45e8f0bdb27d0c0f02a8c7a5ab               29 main/binary-i386/Packages.gz
+ 4bbb0935777c446b84ed562200cc6fee              440 main/binary-i386/Release
+SHA1:
+ c12803a23e17cf4cfae665b17458fb2f8200efec               38 Release
+ 9482343902aff3362b902aa5c1109c2583869437             2558 main/binary-amd64/Packages
+ 027a21a0b0f50ea6bb9bc240e3f5cd175dc75f7b             1109 main/binary-amd64/Packages.gz
+ b33bce58814604662fadce0a0d4273cf852075f0             1204 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-i386/Packages
+ f18af0cedee1e8287e2844d5565816ce00c9aa02               29 main/binary-i386/Packages.gz
+ c0ad0fd8922c02aeba5c7f92c9b5c1daf3c7e35e              440 main/binary-i386/Release
+SHA256:
+ 78c92903f86a1a1e4001ad360dc96c410a1244a33e6102c4b0b526d523046008               38 Release
+ d6d02af5e98f0ba621969c70e325995d42d91faec789b084e2c2c3830617ebde             2558 main/binary-amd64/Packages
+ 2764a834aefe225163b460da64e5481ddddaf539fbca00020d7808ae71d37609             1109 main/binary-amd64/Packages.gz
+ 830b1421a7d19449b72f73ce889d22dce3a9470ad43f050c19c8c6b5e83850a9             1204 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-i386/Packages
+ 6b4296e0c31750b7ea31d35546f5d6c6b6f1c44cbd04697a36e831a532442c98               29 main/binary-i386/Packages.gz
+ 1b08adaafa2aead8707aa84af0fc23feb1ab69724971afd15edf60a4571a08cb              440 main/binary-i386/Release
+SHA512:
+ 1252f3d7548dbb146433596be039f4a1fd271f7490d1cb1b703a98c61baba25967552c25bb3a84116f5c32df183a0f9cfcf73d19d6a769cc683156d72809b9f9               38 Release
+ bc4f52d2b7a5daf2e937f42d36b5c2cb5e65523a53bf0b471e41f3c2a79662e7be78db4003835f06e360d53d7f9b03d6a1dbd800efb6390841fcb5a09096172b             2558 main/binary-amd64/Packages
+ 490ee3a43be49e4757254db5898e469e58b9a72b9608ad5187835b93da872e0924a0dc403643d9e7d73c252b63f741a07404608b23b895b7500fb03e7c30b868             1109 main/binary-amd64/Packages.gz
+ 6fc45123168798de1f9b00da84af7e8302414924ba4f96b82415961587fc0759d28cfd877c41d000e629e71d0016069ff7b474afac05e14a7ef5d3a8102b9fe1             1204 main/binary-amd64/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i386/Packages
+ cba9cedf8b0c3b1484fc801fb2554fdde79b92f091da4315252782425d5f2e8f961c42019b04a3b3eff36461da2bb2fc17eca78a19ac0707280faa4c522647e1               29 main/binary-i386/Packages.gz
+ 72e938c7692e783dd84dad4002666999ca20410c9f03e305012b46ee924b0e250d40016cd45248fa1c91dcc66cd94b628cfdf0c29ed1883130d8362e4ebf1a2a              440 main/binary-i386/Release
