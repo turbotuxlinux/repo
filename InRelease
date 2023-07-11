@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: TurboTux
+Label: TurboTux Gaming Linux
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: TurboTux - The Gaming Linux Distro's Package Repo
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEWNWOm68RKMq2z4laz+dzHX8oCVoFAmStsvYACgkQz+dzHX8o
+CVpm8Qv/ZRLzfPtRnviH6yr0wrsSkUNAsJFCyVFbC0ADc22tz6EHTHwOgZ4/8LRC
+ZIhaXvkRSnk1mTdrYsD2Xzn+57llMsM4ajtWI4BaUIY7gCH9JdaLMBWOlB7Uhgt1
+M4IHI9tvDANWXXo+idaV0jmglHSesl7PXxwOfyONn2JZwh34mjAGtocExOhTUM9N
+yYdBInjDWm9EyThbQHdEGUo9ZRCvcdgF2Kc1jnzEMXpkCRXj+xt1KSTgVAxBxala
+F/bBJ3aSXu02dgHi3OtEPGJLN/Sz6oUkVswafoXRB1DrUdeFVdUHgoWu6u7jRbaz
+p5pkKuvXPpLW07UPz5NncKA0vUAVJhLDQqjZ7yim6ZYMQ3Cvlf3TBz+YoSmPjxjn
+DzUuznVhDn+sgFw9W7d8DVm0aoXO/lNmqLTVoxsBMvDIDKIIcwV00QnhG52vijBd
+uoz/qZpFe5njSbqqf/9B0xgGK12XGzl8xRhJxtlf01UN99goehrfzGd/IpFJj3+Z
+d/pqNAYW
+=RiKb
+-----END PGP SIGNATURE-----

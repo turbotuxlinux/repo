@@ -1,0 +1,7 @@
+Origin: TurboTux
+Label: TurboTux Gaming Linux
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: TurboTux - The Gaming Linux Distro's Package Repo
