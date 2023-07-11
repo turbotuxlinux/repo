@@ -1,17 +1,6 @@
-Date: Sat, 08 Jul 2023 21:51:59 +0000
-MD5Sum:
- b14b991fe6ca3ecb73dde09ef317f880             2558 Packages
- 7795214f9752d34e7ed2debfe929976b             1109 Packages.gz
- 5ba8a0e44be313e040dac5fef2bcb57c               38 Release
-SHA1:
- 9482343902aff3362b902aa5c1109c2583869437             2558 Packages
- 027a21a0b0f50ea6bb9bc240e3f5cd175dc75f7b             1109 Packages.gz
- 823a5d7f208e5adb2bb9b68763a24b10003afe05               38 Release
-SHA256:
- d6d02af5e98f0ba621969c70e325995d42d91faec789b084e2c2c3830617ebde             2558 Packages
- 2764a834aefe225163b460da64e5481ddddaf539fbca00020d7808ae71d37609             1109 Packages.gz
- 92168125283fe99a02397d8f6a3029360e23c9d50853178c2a75bd9978f7e9db               38 Release
-SHA512:
- bc4f52d2b7a5daf2e937f42d36b5c2cb5e65523a53bf0b471e41f3c2a79662e7be78db4003835f06e360d53d7f9b03d6a1dbd800efb6390841fcb5a09096172b             2558 Packages
- 490ee3a43be49e4757254db5898e469e58b9a72b9608ad5187835b93da872e0924a0dc403643d9e7d73c252b63f741a07404608b23b895b7500fb03e7c30b868             1109 Packages.gz
- 519eae4e82fe1fc2474d71fe96c5698a4f228b855b69bd2df6752ee29a2cd203f20e93fc54773f305041b386a99a0a6092c2e6c25c7432d32311ab0d95c1d133               38 Release
+Archive: stable
+Component: main
+Origin: TurboTux
+Label: TurboTux Gaming Linux
+Architecture: amd64
+Description: TurboTux - The Gaming Linux Distro's Package Repo
