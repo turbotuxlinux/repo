@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: TurboTux Repository
+Label: TurboTux Repository - Packages for Debian
+Suite: stable
+Codename: stable
+Architectures: amd64 i386
+Components: main
+Date: Fri, 14 Jul 2023 10:13:00 +1200
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEWNWOm68RKMq2z4laz+dzHX8oCVoFAmSw4VcACgkQz+dzHX8o
+CVqTLAv+OaebQo976NvvuSxSy6OuvIHdYVnSe8sb96Kxr4vFx3Nl2s+OC66t7pk5
+MkvykZJ4efIuUTByI94GlrwGlcO5XQ1J/AsnFAJRSC7S9bn6WWmUGcWXRF9XrNV3
+AgPhOAJW8flRNux7eGS/N/75iMfXvP2iKz5K69jso0Ie+dxfEDZLZOit3107lYjA
+QqMbcGK7BxKYzGGDPtMhLFeQrefczxOBq6ryEoQu1pporn4KBdoQ4wq1ud+9e3E/
+cRc00OZMxM3HABsfmnyyHDKccs5vhTY5ocm9UhWVtRRdVRWx9IJs0j3bHdasCb5S
+VDXCi65zDSjZSrvQfHhrwJcQl7s6y2kWkgXX7pSWOvBDe/zlntcSE2VOHSlTegjo
+YzT9oFJJkcMBfMxdaSAFv5t0KNwDTSJfWMxhkEAOS87CQBZk0pptkwv5UwxO/M5e
+gRQg5aNvUgF3HawhzVHtHdyK1X4Wm92r7ds9RNvrAsf1aqoQ2C0WP/gy+jdsrGGC
+hRGjld6M
+=DwbA
+-----END PGP SIGNATURE-----
