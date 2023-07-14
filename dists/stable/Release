@@ -2,39 +2,28 @@ Origin: TurboTux
 Label: TurboTux Gaming Linux
 Suite: stable
 Codename: stable
-Date: Tue, 11 Jul 2023 19:36:16 UTC
+Date: Fri, 14 Jul 2023 05:41:21 UTC
 Architectures: amd64 i386
 Components: main
 Description: TurboTux - The Gaming Linux Distro's Package Repo
 MD5Sum:
- 5f1b6ec019cc116d6fdbb66625db6f08              258 Release
- b14b991fe6ca3ecb73dde09ef317f880             2558 main/binary-amd64/Packages
- 7ffae7599de59e1c3e2bd918e68e8193             1109 main/binary-amd64/Packages.gz
- e0b34c85570cdc7c8d8325a21193b761              161 main/binary-amd64/Release
- d41d8cd98f00b204e9800998ecf8427e                0 main/binary-i386/Packages
- 521de38f48d62c4476ae7979003ccb08               29 main/binary-i386/Packages.gz
- 271728c589dbd4cfe05a33b25a7a76d9              160 main/binary-i386/Release
+ 647f9788ec4c6a151f49cc8a058e1a65 2135 main/binary-amd64/Packages
+ 39131c1a488b7a216493068966aed041 847 main/binary-amd64/Packages.gz
+ e0b34c85570cdc7c8d8325a21193b761 161 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 271728c589dbd4cfe05a33b25a7a76d9 160 main/binary-i386/Release
 SHA1:
- 29eba08acb42082cd70fa3190c64b11b600eed8a              258 Release
- 9482343902aff3362b902aa5c1109c2583869437             2558 main/binary-amd64/Packages
- 8b5c1eef0df95b6c8451295e6682bb1ef2919fbc             1109 main/binary-amd64/Packages.gz
- 97bcb6674b7a306feccc1e169d8ea81b6b0e9d48              161 main/binary-amd64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-i386/Packages
- 2fd9c8dfc6ad031c4676695f9e02c57196e6a070               29 main/binary-i386/Packages.gz
- 5bcbb39ce6429867d6673c646d8ee6576114a0b8              160 main/binary-i386/Release
+ a55884a5b6bdedfe008ec1f9a68e7f832b261fc2 2135 main/binary-amd64/Packages
+ 60eb766d84baee2e1904314007accebadefde173 847 main/binary-amd64/Packages.gz
+ 97bcb6674b7a306feccc1e169d8ea81b6b0e9d48 161 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 5bcbb39ce6429867d6673c646d8ee6576114a0b8 160 main/binary-i386/Release
 SHA256:
- 968b153026def7481188e4c7105ad26fa249fbf12197b73720e96359fb162589              258 Release
- d6d02af5e98f0ba621969c70e325995d42d91faec789b084e2c2c3830617ebde             2558 main/binary-amd64/Packages
- ebef6e7e91763fc4b5f9e2f91361f6574608dd401dca04e5fcf6eabb588f5037             1109 main/binary-amd64/Packages.gz
- 2418ee0f290009324559b88d76335abf422b583adefafa7a50ce49c842586f2a              161 main/binary-amd64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-i386/Packages
- 0d8c44309ed5894a991e13dc86fe50ada05aac41ba5147507564b3f66d4b2d42               29 main/binary-i386/Packages.gz
- 6864f68dd0e062e0341a2cc76ee41e510b5d58c3fdf288aa5b3f532bbcb1d161              160 main/binary-i386/Release
-SHA512:
- b0110d156003e89b766c306d0e5e532d714e2a78fd2b1042cd3b4751cb2ca6ee74e92e84538fd0d39dffb238aebecd4aa07405518499bcc859dace2765000c08              258 Release
- bc4f52d2b7a5daf2e937f42d36b5c2cb5e65523a53bf0b471e41f3c2a79662e7be78db4003835f06e360d53d7f9b03d6a1dbd800efb6390841fcb5a09096172b             2558 main/binary-amd64/Packages
- 63448755c4d866f45fdc09f4c7b53fd9b87d5813247f71dcbed7e7f7021f453ab163f27bdbc246893f3e39bc14fa17d7b1162a1db7b23c96fa740735407c77ee             1109 main/binary-amd64/Packages.gz
- 4f57483d1f746b845cc1e26aa419dfa8ba47b4838f6956bbd21a18a2fa3039aea81710c43e6785b1bcf5b5f953f992850e9a9da4640e743a76fe9edd9c73ce89              161 main/binary-amd64/Release
- cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i386/Packages
- 9d269a2d680c150ebe28f6474acced78a80a25d207a47da0870f2aa59497b1bc101e28fc3c18b5dde1134f7e90178f3533e3688619879146c83e57fe9bc6b561               29 main/binary-i386/Packages.gz
- 614f94017fc4e9a0b812ac73c02a6b6bd0dfdbd5a24810055ea7d3fc7d0cc9c54ce8f7042a29f6e2e3fd7162aa325002b134271cdaa8c653b31157e24b0ae1aa              160 main/binary-i386/Release
+ 1d5683131bc4a2c173f8029809647a698c6d380de21b2ba6c615f0bc3b05c651 2135 main/binary-amd64/Packages
+ 7f3d2072b31c2845302e07384a610e66694e550c8b78317e709faa33489cf052 847 main/binary-amd64/Packages.gz
+ 2418ee0f290009324559b88d76335abf422b583adefafa7a50ce49c842586f2a 161 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 6864f68dd0e062e0341a2cc76ee41e510b5d58c3fdf288aa5b3f532bbcb1d161 160 main/binary-i386/Release

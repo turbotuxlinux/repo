@@ -1,7 +1,7 @@
-Origin: TurboTux
-Label: TurboTux Gaming Linux
+Origin: TurboTux Repository
+Label: TurboTux Repository - Packages for Debian
 Suite: stable
 Codename: stable
 Architectures: amd64 i386
 Components: main
-Description: TurboTux - The Gaming Linux Distro's Package Repo
+Date: Fri, 14 Jul 2023 10:13:00 +1200
