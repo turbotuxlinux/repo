@@ -55,3 +55,21 @@ Description: Linux support headers for userspace development
  This package provides userspaces headers from the Linux kernel.  These headers
  are used by the installed headers for GNU glibc and other system libraries.
 
+Package: minecraft-launcher
+Version: 1.1.26
+Architecture: amd64
+Filename: pool/main/minecraft.deb
+Size: 500336
+MD5sum: 9ec53b60fba93b1adf05a3246055e7a4 
+SHA1: 97ed4605784d6869ffe16c2677bcc42b093a536e 
+SHA256: b8764d9bfbcbe69582aaa269469bebaddb49dda44e747b7030dd8560667ae5c8 
+
+Package: sc-controller
+Version: 0.4.8.11
+Architecture: amd64
+Filename: pool/main/sc-controller.deb
+Size: 20894214
+MD5sum: f7c067b7f8b024e5b2de81bbb01adab2 
+SHA1: 622882f07a8ff1384a5f1042475cf15734363071 
+SHA256: 3c9dc9717dd5a332160766abc316e2433a598f64936ec7f5f5901213d9c870d6 
+
