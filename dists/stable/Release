@@ -5,6 +5,7 @@ Codename: stable
 Architectures: amd64 i386
 Components: main
 Description: TurboTux - The Gaming Linux Distro's Package Repo
+Date: Mon, 21 Jul 2023 03:44:00 UTC
 SignWith: 58D58E9BAF1128CAB6CF895ACFE7731D7F28095A
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 Packages
