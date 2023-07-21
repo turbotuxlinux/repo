@@ -2,32 +2,19 @@ Origin: TurboTux
 Label: TurboTux Gaming Linux
 Suite: stable
 Codename: stable
-Date: Sat, 15 Jul 2023 22:15:35 UTC
 Architectures: amd64 i386
 Components: main
 Description: TurboTux - The Gaming Linux Distro's Package Repo
+SignWith: 58D58E9BAF1128CAB6CF895ACFE7731D7F28095A
 MD5Sum:
- 03252b46145517ba6db3d53240529cd8             1686 Release
- d6c02481a5c858578dd7881f94bbeeb6             2690 main/binary-amd64/Packages
- 809d63bbae89765cf64e74498e531360             1110 main/binary-amd64/Packages.gz
- e0b34c85570cdc7c8d8325a21193b761              161 main/binary-amd64/Release
- d41d8cd98f00b204e9800998ecf8427e                0 main/binary-i386/Packages
- 7029066c27ac6f5ef18d660d5741979a               20 main/binary-i386/Packages.gz
- 271728c589dbd4cfe05a33b25a7a76d9              160 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ a7cd7b6581a81f40f83bc7a7d75d0df1             1634 Packages.gz
 SHA1:
- 4c1b61942253abca92a4d35c01c0cb8875f5a671             1686 Release
- 4c6250a066678dcd72c61b969e0b0c5de22caa7c             2690 main/binary-amd64/Packages
- 6fc71058e503bd9ad0660f7e98fdb3bf072851b0             1110 main/binary-amd64/Packages.gz
- 97bcb6674b7a306feccc1e169d8ea81b6b0e9d48              161 main/binary-amd64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-i386/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4               20 main/binary-i386/Packages.gz
- 5bcbb39ce6429867d6673c646d8ee6576114a0b8              160 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ 92e1c7501c662c3b992dd56aeda755306a21ed2a             1634 Packages.gz
 SHA256:
- b833f4850395c6e587cc251ed987c5da07c47ee9e1e0930b635d71567ba12a9c             1686 Release
- 952691d591fcc8fead295cd9cb01b792f089c3015245cff92abefe5f20fdbd95             2690 main/binary-amd64/Packages
- 7c1608cbb76419fdb046c2d70e89aea0593feae71590ea6e9df657e8ea8dba0d             1110 main/binary-amd64/Packages.gz
- 2418ee0f290009324559b88d76335abf422b583adefafa7a50ce49c842586f2a              161 main/binary-amd64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-i386/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2               20 main/binary-i386/Packages.gz
- 6864f68dd0e062e0341a2cc76ee41e510b5d58c3fdf288aa5b3f532bbcb1d161              160 main/binary-i386/Release
-SHA512: e686fde2faafce278a2ab59660890948d31b586945ff565766f04dbec86226857b8a868d6de695e042b0a6ad8d1511cd8911a95fb0d439a7aec6916d66eedab3             1686 Release 35576fb18e9a54f1cc5c4703c6587dc222f74f9d3f87e746f8f14bfd2005262b8b0341d70387a25a76048bca60df461980935fac402e40106fb23ea34a0a8f7a             2690 main/binary-amd64/Packages c4a3913690d9a75001634687dedb7d23b3c41c0b96c8b77876f2f9631e975495876a6616a34c3fb5b6462479d035862eabbc1c1d39cbc4a04d4ace87c2f3f0bf             1110 main/binary-amd64/Packages.gz 4f57483d1f746b845cc1e26aa419dfa8ba47b4838f6956bbd21a18a2fa3039aea81710c43e6785b1bcf5b5f953f992850e9a9da4640e743a76fe9edd9c73ce89              161 main/binary-amd64/Release cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-i386/Packages 7e8e93f4a89ce7fae011403e14a1d53544c6e6f6b6010d61129dc27937806d2b03802610d7999eab33a4c36b0f9e001d9d76001b8354087634c1aa9c740c536f               20 main/binary-i386/Packages.gz 614f94017fc4e9a0b812ac73c02a6b6bd0dfdbd5a24810055ea7d3fc7d0cc9c54ce8f7042a29f6e2e3fd7162aa325002b134271cdaa8c653b31157e24b0ae1aa              160 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ e392be91bff4af94f7cef3c01f4638e8dfa21a895822c006c0dc12f5843f10b4             1634 Packages.gz
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ 39444f6cf616fa60d05dde40fd5d106f7136f1ee10b0e3f94bd0a803fb9b9f3a341c243118b276bd2cef56cd78768ec212bd8a9456b5c78acf18fbf4de8f6222             1634 Packages.gz
