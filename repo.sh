@@ -3,7 +3,7 @@
 # Define variables
 REPO_PATH="."
 ARCHITECTURES="amd64 i386"
-PACKAGE_FILES="$REPO_PATH/*.deb"
+PACKAGE_FILES="$REPO_PATH/pool/main/*.deb"
 GPG_KEY_ID="58D58E9BAF1128CAB6CF895ACFE7731D7F28095A"
 
 # Create the repository directory structure
