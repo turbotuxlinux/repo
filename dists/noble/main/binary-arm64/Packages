@@ -1,0 +1,15 @@
+Package: ubuntu-advantage-desktop-daemon
+Version: 9999
+Architecture: all
+Maintainer: TurboTux Linux <turbotuxlinux@proton.me>
+Installed-Size: 9
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Filename: pool/main/u/ubuntu-advantage-desktop-daemon/ubuntu-advantage-desktop-daemon_9999_all.deb
+Size: 924
+SHA256: 53f4ca403a30a703fd9c3554bc7a81a99e7113ae5b5580e5c146789d459ad914
+SHA1: 1bc60b8b139d958c7b67285620890750d329339d
+MD5sum: 1169160e6c5432545122188929e435b9
+Description: Fake Ubuntu Advantage package to block Ubuntu Pro nags
+

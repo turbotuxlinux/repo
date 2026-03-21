@@ -1,7 +1,0 @@
-Origin: TurboTux Repository
-Label: TurboTux Repository - Packages for Debian
-Suite: stable
-Codename: stable
-Architectures: amd64 i386
-Components: main
-Date: Fri, 14 Jul 2023 10:13:00 +1200

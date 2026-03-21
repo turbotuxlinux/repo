@@ -1,0 +1,7 @@
+Archive: stable
+Version: 24.04
+Component: main
+Origin: TurboTux Linux
+Label: TurboTux Linux Repository
+Architecture: arm64
+Description: Package repository for TurboTux Linux

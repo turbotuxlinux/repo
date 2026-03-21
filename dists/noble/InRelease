@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: TurboTux Linux
+Label: TurboTux Linux Repository
+Suite: stable
+Codename: noble
+Version: 24.04
+Date: Sat, 21 Mar 2026 05:15:17 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Package repository for TurboTux Linux
+MD5Sum:
+ f389e8a59f7445e4e9ac22ba4e6f66c8 536 main/binary-amd64/Packages
+ 9310c415b9205d43649232406f57af95 370 main/binary-amd64/Packages.gz
+ 3b59b5b6632fa4c4c7d7b51257d3b5f6 174 main/binary-amd64/Release
+ f389e8a59f7445e4e9ac22ba4e6f66c8 536 main/binary-arm64/Packages
+ 9310c415b9205d43649232406f57af95 370 main/binary-arm64/Packages.gz
+ 9eec30c07e92d1901f2f7097d8892565 174 main/binary-arm64/Release
+SHA1:
+ 8c96c8604a4d01eef360f062ab461acc990d7949 536 main/binary-amd64/Packages
+ a5601eb374d4a36067b3f17e65b2133b279a1868 370 main/binary-amd64/Packages.gz
+ 2e45d1070448db9edf5f54e020485729598d3f82 174 main/binary-amd64/Release
+ 8c96c8604a4d01eef360f062ab461acc990d7949 536 main/binary-arm64/Packages
+ a5601eb374d4a36067b3f17e65b2133b279a1868 370 main/binary-arm64/Packages.gz
+ 4243f9590d232527618a4991cb9e51bddcb649d7 174 main/binary-arm64/Release
+SHA256:
+ a3da5daf46df71aef32689eed86487ef917c9d980e73385358bc360c4d5c70b1 536 main/binary-amd64/Packages
+ abc4e915ce717c58c17dc4a8046b4df73dbcd6679697d17ddb69d7830d6b7740 370 main/binary-amd64/Packages.gz
+ 2bc8de4eecd3850b20513a2d619265c00c84e28ee2f7133f5c7f2c0e05fd3075 174 main/binary-amd64/Release
+ a3da5daf46df71aef32689eed86487ef917c9d980e73385358bc360c4d5c70b1 536 main/binary-arm64/Packages
+ abc4e915ce717c58c17dc4a8046b4df73dbcd6679697d17ddb69d7830d6b7740 370 main/binary-arm64/Packages.gz
+ 32cb7922896fcbd721074fdaa64498c92077eccfbe7581b8d8ad3e49e0d979e0 174 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEoALdWSEDyT8dq4utn0kjSF8OnqcFAmm+KWUACgkQn0kjSF8O
+nqd+6BAAljVD1r5G6571cltos++A+mo8b3nN5TzuTErthjy2TT/pdSDQ4s7olS+U
+M7/TEWghVmduCgkXGi58b3kMgZ0ZUcWvIBkM+TYZq41fbjOQmozH29xDdGt+Navp
+gkOmqV9atE3DH4RhtVGZpFdltYRakQz2Xk4mku2iFDrU6zTQ/uv9i3LYfQ+q5PAd
+Sl6vQv63fhTiaTrj8EF5hYoWn7+6CJmc5VCrb64KssW67Ai/fKeo2SMktQzeme48
+Rgg7pUZZE2v+/nbDq3J+WLwW9IS/8xSLAGVRPdgfhzsH+da42UzOT3C0JPS7ZhJ7
+QSBU1y+hZDFp87TurS2R61n/Hs9ulVLq8qvmkjsF1Yi/CZHNBjbQJDwADCWaFzkk
+16bp2rfkSPlHVq/LsvsWS/f6f50f65iUE0g5TcNBFxb86V3fKkfQer6j3KyIutab
+aJdogI847DmMWhahz3QLjC4/ftWpy0H8FqzUXcxv7/p0h14bxoB+TrBJxZ9PjJWR
+Ytma07VpC9/37GUwVobvOvoS49RJXYw5p2cvAnO64pwomLCYxhvFxYO0TOFcoNDO
+vJ3ayCE9628IY6kf9+1B8SKhVY6yRao/+u6/uS9z4/RywhXDSEyKWOs304pdYnxB
+OxtOIgAQVBV7Urdi/XCxNL5+oMXeHsMzDxLlgAn1HkYXj0CudLs=
+=Fydu
+-----END PGP SIGNATURE-----
