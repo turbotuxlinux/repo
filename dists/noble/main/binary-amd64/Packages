@@ -13,3 +13,18 @@ SHA1: 1bc60b8b139d958c7b67285620890750d329339d
 MD5sum: 1169160e6c5432545122188929e435b9
 Description: Fake Ubuntu Advantage package to block Ubuntu Pro nags
 
+Package: ubuntu-pro-client
+Version: 9999
+Architecture: all
+Maintainer: TurboTux Linux <turbotuxlinux@proton.me>
+Installed-Size: 9
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Filename: pool/main/u/ubuntu-pro-client/ubuntu-pro-client_9999_all.deb
+Size: 928
+SHA256: 1471e8c845f4b442e13d0a89375ce933916711dad9c83e414381f297ff7b5f20
+SHA1: 0e442b1cccca383473e67921517b0be3c1d95202
+MD5sum: 5f04a35e573ea23a07bb79fb94d5154b
+Description: Fake Ubuntu Pro package to block Ubuntu Pro nags
+
