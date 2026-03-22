@@ -6,44 +6,44 @@ Label: TurboTux Linux Repository
 Suite: stable
 Codename: noble
 Version: 24.04
-Date: Sat, 21 Mar 2026 05:23:58 UTC
+Date: Sun, 22 Mar 2026 05:13:01 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Package repository for TurboTux Linux
 MD5Sum:
- 69aa9170063dfc5c656ab29205e4ebcd 1024 main/binary-amd64/Packages
- 018d47464fa4924a6a6712a37bd54401 494 main/binary-amd64/Packages.gz
+ e5a8137606bdaa89a2a49264b93fd7ec 1596 main/binary-amd64/Packages
+ 0571442d7a013adabefe18388ce48c65 736 main/binary-amd64/Packages.gz
  3b59b5b6632fa4c4c7d7b51257d3b5f6 174 main/binary-amd64/Release
- 69aa9170063dfc5c656ab29205e4ebcd 1024 main/binary-arm64/Packages
- 018d47464fa4924a6a6712a37bd54401 494 main/binary-arm64/Packages.gz
+ e5a8137606bdaa89a2a49264b93fd7ec 1596 main/binary-arm64/Packages
+ 0571442d7a013adabefe18388ce48c65 736 main/binary-arm64/Packages.gz
  9eec30c07e92d1901f2f7097d8892565 174 main/binary-arm64/Release
 SHA1:
- 70b723a2f4875326ce2a1441ec00aa70e779a4ff 1024 main/binary-amd64/Packages
- 27854acc973f272ffd341f7da2666f99c7985c45 494 main/binary-amd64/Packages.gz
+ 30d09e5ecc45b7ba03663af6a8bc88f1f1769036 1596 main/binary-amd64/Packages
+ 8672c58bda10e8d5d8f4441f371836256e4fa5d0 736 main/binary-amd64/Packages.gz
  2e45d1070448db9edf5f54e020485729598d3f82 174 main/binary-amd64/Release
- 70b723a2f4875326ce2a1441ec00aa70e779a4ff 1024 main/binary-arm64/Packages
- 27854acc973f272ffd341f7da2666f99c7985c45 494 main/binary-arm64/Packages.gz
+ 30d09e5ecc45b7ba03663af6a8bc88f1f1769036 1596 main/binary-arm64/Packages
+ 8672c58bda10e8d5d8f4441f371836256e4fa5d0 736 main/binary-arm64/Packages.gz
  4243f9590d232527618a4991cb9e51bddcb649d7 174 main/binary-arm64/Release
 SHA256:
- a2ddf6e19d1ca1030d43a7245e6674a18f93b80f6edf22ebabbc63389393f043 1024 main/binary-amd64/Packages
- 4a0193805cd45d21cdefec47cd7eda43257972a03dc193dee9ebe5788ddda525 494 main/binary-amd64/Packages.gz
+ 1266acf7985020456ab8dd8103fcadbeaad245150c47597d29684032a76ae29e 1596 main/binary-amd64/Packages
+ 639c59daf56cc751de7e5096ce0c7c6266dba56fe314022504a7967528fdd30a 736 main/binary-amd64/Packages.gz
  2bc8de4eecd3850b20513a2d619265c00c84e28ee2f7133f5c7f2c0e05fd3075 174 main/binary-amd64/Release
- a2ddf6e19d1ca1030d43a7245e6674a18f93b80f6edf22ebabbc63389393f043 1024 main/binary-arm64/Packages
- 4a0193805cd45d21cdefec47cd7eda43257972a03dc193dee9ebe5788ddda525 494 main/binary-arm64/Packages.gz
+ 1266acf7985020456ab8dd8103fcadbeaad245150c47597d29684032a76ae29e 1596 main/binary-arm64/Packages
+ 639c59daf56cc751de7e5096ce0c7c6266dba56fe314022504a7967528fdd30a 736 main/binary-arm64/Packages.gz
  32cb7922896fcbd721074fdaa64498c92077eccfbe7581b8d8ad3e49e0d979e0 174 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEoALdWSEDyT8dq4utn0kjSF8OnqcFAmm+K24ACgkQn0kjSF8O
-nqdLhg//UeL7MIhPKtE2kf8CFz6QJ8U395B1oU6jyP5Kgcp8u0hUp7nZv0dcmtxb
-zJssI/kjsG+29cRmE6VyYa/S7BhvUEwx4+p1X/k3Zk+HSKcY9hHwK0OqDVtbtOP8
-6XZQ3OxRLu1Dr5SZ842UgHAXfyPA4qPUmSvDcPHKHKtScStVzHuUQpyE+UXaZyla
-fjCwd08rWC4gEBH8Ojv7b5GnmNfJjj4OCk+uqPe73D6fUExtKAjaxMWDkfOWg5zo
-nEqzcnMDzWtfOqTcdNrJNaWNeECGD9dqfh5VLMl+cpHm7x596v7sab2Hzo9fsVuy
-u/O5hf05vaWM3b7Ft/t43UOxd2uYZG+ln/5GZv37F8t7Dd0C+Xm/JU56EiEwTOK+
-UMPp2xG9QH4LClk9THeE/SGkQdwzsGEprkEijPuc3kuzHxhGGn5KXJaXg0D8SGDo
-+0VWcqW1PGvPTvAkcwff/0NXSgCINQz1a1FztBoFOJgPC2K8P9bM0PrwHLJy1LZ5
-gx1xn/R9aR7c4YFnnSlOS3t3IHfGVuAMK1xmfTghDV8KsiAAR8kLaS1PBBpLRJVn
-rCFT6G4KhI2q+vgkmE6+P7WSrKBW9BuHGtRwSubVpET62CIcgxwEZMRNT/D1PGWi
-eFIEiCm7ZiUY/ji+uKdyCZY5ViQSdGC/VDkpRpAd3AuqtB5uUnk=
-=jAxr
+iQIzBAEBCgAdFiEEoALdWSEDyT8dq4utn0kjSF8OnqcFAmm/el0ACgkQn0kjSF8O
+nqeP9g/+LZTg+LZD+R9+6ifTWiYW1mb84wHAejN84w09y/l9c/gbOAp0WX6R5m7e
+5FdFEOv5X49g9maWyGj9MLUv2CuZMAtxuUOkU7RMRZU0hKo5tEbAdf6mDYX8WFFp
+IzT8OOgIcZmVGQH70sCPR0hGPPDwxzd7lSKLp5E9xmcYK3wGJ7AnIf7ZvmZLm5DF
+tTYgIP/0h7orkyqjKWpo0te7rQqvMhOjEncytJYU8Fh9fRb1aGJMd5k8fEKvhSzt
+8e+3Ifl5NN/gWMuzuvTGy8IM8exKARvnZAyaK+z5iWJTaGRadRWtDMXmZNmzL64w
+xg97JneOTHMEut8JJ2LSmjURfSaDlXqtjaRKF6Y0pEwcB65W6wqfqSfnbTFZcXda
+fbaxtKdaAbUdsRV7BXX8QVHrBLaZYEUHV5n8PAhlR8/JM9IfbSqxwO9Kf3axSKvO
+AoCZVM22bUWfLBpcSDSArOEDDlVIqlCEyBow1RIuUgsWoUvrVr8sBZZ3yTAXg8oq
+QsbbHahaVsCK1Fc4REkh/lmJcKDueQ9zo3UsFpGOIeVwLrwTcVmjuIwa83PasqD8
+bpZC6Ueja5g/b5Mih6CtkxUXoFfgQc97/hdy0r3FuAPzsOfHnL7V+pboO5nOF6AD
+3VJz84a8DnfdOFse4xv7pwzpvRmkvkdgRcSxbyuXBi3aQlPlWbo=
+=MDpZ
 -----END PGP SIGNATURE-----

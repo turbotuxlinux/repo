@@ -1,3 +1,18 @@
+Package: peripheralmanager
+Version: 0.1.2
+Architecture: all
+Maintainer: TurboTux Linux <turbotuxlinux@proton.me>
+Depends: python3, python3-gi, gir1.2-gtk-4.0, python3-gi-cairo, gir1.2-adw-1
+Recommends: piper, polychromatic, openrgb
+Priority: optional
+Section: utils
+Filename: pool/main/p/peripheralmanager/peripheralmanager_0.1.2_all.deb
+Size: 368432
+SHA256: 6676024fa0aa46affa2e926d1ea18f0446fc2de3be715c59a4d3b5dfffa48767
+SHA1: ba9c38803c6dc4bc3615f3276cfd82932b8323f6
+MD5sum: 794c9e0ff4a27ac67e7db937626f5b5b
+Description: A graphical tool to manage connected devices.
+
 Package: ubuntu-advantage-desktop-daemon
 Version: 9999
 Architecture: all

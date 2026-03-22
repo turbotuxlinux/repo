@@ -3,28 +3,28 @@ Label: TurboTux Linux Repository
 Suite: stable
 Codename: noble
 Version: 24.04
-Date: Sat, 21 Mar 2026 05:23:58 UTC
+Date: Sun, 22 Mar 2026 05:13:01 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Package repository for TurboTux Linux
 MD5Sum:
- 69aa9170063dfc5c656ab29205e4ebcd 1024 main/binary-amd64/Packages
- 018d47464fa4924a6a6712a37bd54401 494 main/binary-amd64/Packages.gz
+ e5a8137606bdaa89a2a49264b93fd7ec 1596 main/binary-amd64/Packages
+ 0571442d7a013adabefe18388ce48c65 736 main/binary-amd64/Packages.gz
  3b59b5b6632fa4c4c7d7b51257d3b5f6 174 main/binary-amd64/Release
- 69aa9170063dfc5c656ab29205e4ebcd 1024 main/binary-arm64/Packages
- 018d47464fa4924a6a6712a37bd54401 494 main/binary-arm64/Packages.gz
+ e5a8137606bdaa89a2a49264b93fd7ec 1596 main/binary-arm64/Packages
+ 0571442d7a013adabefe18388ce48c65 736 main/binary-arm64/Packages.gz
  9eec30c07e92d1901f2f7097d8892565 174 main/binary-arm64/Release
 SHA1:
- 70b723a2f4875326ce2a1441ec00aa70e779a4ff 1024 main/binary-amd64/Packages
- 27854acc973f272ffd341f7da2666f99c7985c45 494 main/binary-amd64/Packages.gz
+ 30d09e5ecc45b7ba03663af6a8bc88f1f1769036 1596 main/binary-amd64/Packages
+ 8672c58bda10e8d5d8f4441f371836256e4fa5d0 736 main/binary-amd64/Packages.gz
  2e45d1070448db9edf5f54e020485729598d3f82 174 main/binary-amd64/Release
- 70b723a2f4875326ce2a1441ec00aa70e779a4ff 1024 main/binary-arm64/Packages
- 27854acc973f272ffd341f7da2666f99c7985c45 494 main/binary-arm64/Packages.gz
+ 30d09e5ecc45b7ba03663af6a8bc88f1f1769036 1596 main/binary-arm64/Packages
+ 8672c58bda10e8d5d8f4441f371836256e4fa5d0 736 main/binary-arm64/Packages.gz
  4243f9590d232527618a4991cb9e51bddcb649d7 174 main/binary-arm64/Release
 SHA256:
- a2ddf6e19d1ca1030d43a7245e6674a18f93b80f6edf22ebabbc63389393f043 1024 main/binary-amd64/Packages
- 4a0193805cd45d21cdefec47cd7eda43257972a03dc193dee9ebe5788ddda525 494 main/binary-amd64/Packages.gz
+ 1266acf7985020456ab8dd8103fcadbeaad245150c47597d29684032a76ae29e 1596 main/binary-amd64/Packages
+ 639c59daf56cc751de7e5096ce0c7c6266dba56fe314022504a7967528fdd30a 736 main/binary-amd64/Packages.gz
  2bc8de4eecd3850b20513a2d619265c00c84e28ee2f7133f5c7f2c0e05fd3075 174 main/binary-amd64/Release
- a2ddf6e19d1ca1030d43a7245e6674a18f93b80f6edf22ebabbc63389393f043 1024 main/binary-arm64/Packages
- 4a0193805cd45d21cdefec47cd7eda43257972a03dc193dee9ebe5788ddda525 494 main/binary-arm64/Packages.gz
+ 1266acf7985020456ab8dd8103fcadbeaad245150c47597d29684032a76ae29e 1596 main/binary-arm64/Packages
+ 639c59daf56cc751de7e5096ce0c7c6266dba56fe314022504a7967528fdd30a 736 main/binary-arm64/Packages.gz
  32cb7922896fcbd721074fdaa64498c92077eccfbe7581b8d8ad3e49e0d979e0 174 main/binary-arm64/Release
