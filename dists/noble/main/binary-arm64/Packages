@@ -43,3 +43,27 @@ SHA1: 0e442b1cccca383473e67921517b0be3c1d95202
 MD5sum: 5f04a35e573ea23a07bb79fb94d5154b
 Description: Fake Ubuntu Pro package to block Ubuntu Pro nags
 
+Package: ubuntu-session
+Source: gnome-session
+Version: 46.0-1ubuntu4
+Architecture: all
+Maintainer: TurboTux Linux <turbotuxlinux@proton.me>
+Installed-Size: 46
+Depends: gnome-session-bin (<< 47~), gnome-session-bin (>= 46.0-1ubuntu4), gnome-session-common (= 46.0-1ubuntu4), gnome-settings-daemon (>= 3.37.0), gnome-shell (>= 3.37.91), xdg-desktop-portal-gnome | xdg-desktop-portal-backend, xwayland, yaru-theme-gnome-shell (>= 20.04.3~), session-migration
+Recommends: python3
+Breaks: gnome-session (<= 3.29.90-1ubuntu1), hud (<< 14.10+17.10.20170619), unity (<< 7.5.0+17.10.20170619), unity-gtk-module (<< 0.0.0+17.04.20170918), unity-settings-daemon (<< 15.04.1+17.04.20170619)
+Replaces: gnome-session (<= 3.29.90-1ubuntu1)
+Provides: x-session-manager
+Homepage: https://wiki.gnome.org/Projects/SessionManagement
+Priority: optional
+Section: gnome
+Filename: pool/main/g/gnome-session/ubuntu-session_46.0-1ubuntu4_all.deb
+Size: 5648
+SHA256: 2e67b080608529fa5adf07560fcece11c38aefd38ed9aaf148e970425ca98472
+SHA1: 506a250b52de47217fde33bfa078583d4b2017b0
+MD5sum: f9b83c559ced916950f8fe1951925f2f
+Description: Ubuntu session with GNOME Shell
+ This package contains the required components for running a GNOME 3 session
+ with default TurboTux configuration, based on the GNOME Shell.
+Original-Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+
