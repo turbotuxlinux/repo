@@ -1,3 +1,26 @@
+Package: distro-info-data
+Version: 0.60ubuntu0.5
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 18
+Breaks: distro-info (<< 1.0~)
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Filename: pool/main/d/distro-info-data/distro-info-data_0.60ubuntu0.5_all.deb
+Size: 7008
+SHA256: 3caa92a65f2e38f382c3da75bf4efeba582c4a62e6d48398bdb0b0ba18955e88
+SHA1: 54a46ab53bfa9f74573a3e74ed4b081e2c1b5ecf
+MD5sum: 6fb615847d2ebeba0eba11f16467675c
+Description: information about the distributions' releases (data files)
+ Information about all releases of Debian and Ubuntu. The distro-info script
+ will give you the codename for e.g. the latest stable release of your
+ distribution. To get information about a specific distribution there are the
+ debian-distro-info and the ubuntu-distro-info scripts.
+ .
+ This package contains the data files.
+Original-Maintainer: Benjamin Drung <bdrung@debian.org>
+
 Package: peripheralmanager
 Version: 0.1.2
 Architecture: all
@@ -12,6 +35,53 @@ SHA256: 6676024fa0aa46affa2e926d1ea18f0446fc2de3be715c59a4d3b5dfffa48767
 SHA1: ba9c38803c6dc4bc3615f3276cfd82932b8323f6
 MD5sum: 794c9e0ff4a27ac67e7db937626f5b5b
 Description: A graphical tool to manage connected devices.
+
+Package: python-apt-common
+Source: python-apt
+Version: 2.7.7ubuntu5.2
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 156
+Enhances: python-apt, python3-apt
+Breaks: python-apt (<< 0.7.98+nmu1)
+Replaces: python-apt (<< 0.7.98+nmu1)
+Multi-Arch: foreign
+Priority: optional
+Section: python
+Filename: pool/main/p/python-apt/python-apt-common_2.7.7ubuntu5.2_all.deb
+Size: 20722
+SHA256: d55fc117364ec58bc382c6f42fc2391df11db679125eee001b9388f76260e768
+SHA1: fe837a861f84c93b8a8ace1acf293c9c2b5abb52
+MD5sum: 440fe39f652fd92be6432b670bfa5889
+Description: Python interface to libapt-pkg (locales)
+ The apt_pkg Python interface will provide full access to the internal
+ libapt-pkg structures allowing Python programs to easily perform a
+ variety of functions.
+ .
+ This package contains locales.
+Original-Maintainer: APT Development Team <deity@lists.debian.org>
+
+Package: software-properties-gtk
+Source: software-properties
+Version: 0.99.48
+Architecture: all
+Maintainer: Michael Vogt <michael.vogt@ubuntu.com>
+Installed-Size: 508
+Depends: gir1.2-gtk-3.0, gir1.2-handy-1, libgtk3-perl, python3, python3-dateutil, python3-distro-info, python3-gi, python3-software-properties (>= 0.99.48), software-properties-common, ubuntu-pro-client, ubuntu-drivers-common (>= 1:0.9.6), dconf-gsettings-backend | gsettings-backend, python3:any
+Recommends: gnome-keyring, gnome-session-bin | xfce4-session | mate-session-manager
+Priority: optional
+Section: admin
+Filename: pool/main/s/software-properties/software-properties-gtk_0.99.48_all.deb
+Size: 82140
+SHA256: d0c92429ae1d95703520bcd259da03fb45741514b4d060fb29db0e0654643e99
+SHA1: 28762a2e1ec4fa0e08198d9bd2dfceb36bf03a46
+MD5sum: 0b3a4e719e195f789cb493e31b415c57
+Description: manage the repositories that you install software from (gtk)
+ This software provides an abstraction of the used apt repositories.
+ It allows you to easily manage your distribution and independent software
+ vendor software sources.
+ .
+ This package contains a GTK+ based graphical interface.
 
 Package: ubuntu-advantage-desktop-daemon
 Version: 9999

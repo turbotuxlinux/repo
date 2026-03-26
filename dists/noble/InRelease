@@ -6,44 +6,44 @@ Label: TurboTux Linux Repository
 Suite: stable
 Codename: noble
 Version: 24.04
-Date: Mon, 23 Mar 2026 04:55:09 UTC
+Date: Thu, 26 Mar 2026 05:45:36 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Package repository for TurboTux Linux
 MD5Sum:
- 902906ceda02276ab096e0e974e02af0 2969 main/binary-amd64/Packages
- 8117da444b0764af27b473cd2dca875f 1285 main/binary-amd64/Packages.gz
+ fdc0acfafc8e3e08c2d8486737ac202b 5961 main/binary-amd64/Packages
+ c8ed23d25d5de718fec3d9f7f68b756a 2389 main/binary-amd64/Packages.gz
  3b59b5b6632fa4c4c7d7b51257d3b5f6 174 main/binary-amd64/Release
- 902906ceda02276ab096e0e974e02af0 2969 main/binary-arm64/Packages
- 8117da444b0764af27b473cd2dca875f 1285 main/binary-arm64/Packages.gz
+ fdc0acfafc8e3e08c2d8486737ac202b 5961 main/binary-arm64/Packages
+ c8ed23d25d5de718fec3d9f7f68b756a 2389 main/binary-arm64/Packages.gz
  9eec30c07e92d1901f2f7097d8892565 174 main/binary-arm64/Release
 SHA1:
- 8b28376f84b7e4a4821c7eeedd1fc36b210cfbf0 2969 main/binary-amd64/Packages
- fdfce355506f75bfa34b12f93b3c01f46e903f9b 1285 main/binary-amd64/Packages.gz
+ cf860d76a22a9e21642d0aa99a6a23c1d7dab582 5961 main/binary-amd64/Packages
+ 0771a950b1df1056a3d6451e4864c0afbc622b91 2389 main/binary-amd64/Packages.gz
  2e45d1070448db9edf5f54e020485729598d3f82 174 main/binary-amd64/Release
- 8b28376f84b7e4a4821c7eeedd1fc36b210cfbf0 2969 main/binary-arm64/Packages
- fdfce355506f75bfa34b12f93b3c01f46e903f9b 1285 main/binary-arm64/Packages.gz
+ cf860d76a22a9e21642d0aa99a6a23c1d7dab582 5961 main/binary-arm64/Packages
+ 0771a950b1df1056a3d6451e4864c0afbc622b91 2389 main/binary-arm64/Packages.gz
  4243f9590d232527618a4991cb9e51bddcb649d7 174 main/binary-arm64/Release
 SHA256:
- 77d6605d5021122ed031a8c642589de589be1fc3140ef713c9a110b79dc584a1 2969 main/binary-amd64/Packages
- 71e8209fc02ba162ef09e98596a7e0aa65337778c352c0d2f005dad9d0e9dbbf 1285 main/binary-amd64/Packages.gz
+ 31c1b31e5b8471efc02e31cae0e1932242759beed10a2c08841fcf0507708454 5961 main/binary-amd64/Packages
+ 8ed4b09976b97eec38991fe0553c94e091be8fcee236a0253bd77accb774bd21 2389 main/binary-amd64/Packages.gz
  2bc8de4eecd3850b20513a2d619265c00c84e28ee2f7133f5c7f2c0e05fd3075 174 main/binary-amd64/Release
- 77d6605d5021122ed031a8c642589de589be1fc3140ef713c9a110b79dc584a1 2969 main/binary-arm64/Packages
- 71e8209fc02ba162ef09e98596a7e0aa65337778c352c0d2f005dad9d0e9dbbf 1285 main/binary-arm64/Packages.gz
+ 31c1b31e5b8471efc02e31cae0e1932242759beed10a2c08841fcf0507708454 5961 main/binary-arm64/Packages
+ 8ed4b09976b97eec38991fe0553c94e091be8fcee236a0253bd77accb774bd21 2389 main/binary-arm64/Packages.gz
  32cb7922896fcbd721074fdaa64498c92077eccfbe7581b8d8ad3e49e0d979e0 174 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEoALdWSEDyT8dq4utn0kjSF8OnqcFAmnAx60ACgkQn0kjSF8O
-nqddqQ/+P8WNoX5t1j/NFdGxoxqtqK7dr67W5ia8BKUsrsNMl3ruwOBX9hROyOYZ
-qmAvB2JZVzX3C8ITAyDYcBmIjA79vr84jzOLW7SHNu13IfOsrsHsLqoUvjUJsZda
-WyqwH9GrI9XfxcYK1/Bx2+s8NB+ciHKHx5AOcNwpdV9J0K4JEPKKv91d9wlVdGdm
-5uU1D8uInN28ys3ZQigHPo/i8D1BcLLRbTvf8f2ITdZzWCXYlfBUTWLw4HSckLqS
-GHzQ9pWqJyBJk5fiNh+7/0lRzdKdMHFa8zOkpFj0BhNI2XECde+W5uj95r9OULrY
-s6Yr/d2YMDQq9hy0vBtpUsWbW+2i0UteCzJ/QUCh1qh2JaoDlv7VWkMH92NuSNnG
-ClURBch6McZ035hRrd/DyB+ksW0YiLrl/ikGMkbXqCas4u3nkQK9rEGJvziL3SsF
-UjT1r3zGAucpJzcektPPCJjT7udAIL9qmd5iX4p6+FffiVaxlMlC9YYZYiWhm8qx
-V4jMuOcpHIAnBfrahIIgWzwyHaYH72N6YqxGHuasGtv0ss5TokInEmxcya3V9gg7
-lgWOxvYtYh/SYSSCJbfRrbZB/MhedC41WKey/YsVqweAbshnuFv/nYMvG6G7k8uz
-rPfD0vNhPBuAYJQDuIN3A006A/svYAEZW0lw2AAeNFpVTaqSi0E=
-=7YPm
+iQIzBAEBCgAdFiEEoALdWSEDyT8dq4utn0kjSF8OnqcFAmnEyAEACgkQn0kjSF8O
+nqfOgA//ag4IYrtdOR3pYnXXK3IFScbfgkbCgMKlDdbbjeC8DiXCGF8Qt0sxOdMU
+YYtUVq9nTN3XaCq6MjmfjfwD1x9wWBsIxPqNHvNl4teqhuVpa8FwSOl1T4PXu3oC
+F2kNt4a0si48X5XyVyBhxHN9PDTqCT6iv8V478Mdfih6GOZmLPSEyaPt/L2MwIyL
+a8IWxpeTpThMOwsHmEsbZdJ7GpK2Rcx60S2jmq7bJzonETsMpEzJbNHZdFAYDANx
+E4oTrelO6L6N4koxoYKVVAXCE9fu2MFczYcyXKo3uRJO1blDGcBNlAckGEwqotMs
+R0YG03SJT44AJpE0W+ZxQnEz5PhRNB5VI2g1VIWH5x/cHOxBuHs1oF27RHU93jGb
+BHoiXQnMtLFMeKEYUuFqtRfuGIIBkjmdOTFzIZU1/YJT3iMSaGYRqDky3UYmOlN/
+/yRu6ax6CylDXNNMnZtfah9NL9u195iOISDjjWAmr2BFleWrG+52+LwEvCNUmUIk
+L3XUlx5M3Ga/+B/Uu/mwSXmd/0SlDEG2Yl9gFmvs5Go9sASpy8i6+nGuohL1/pvp
+u0K7Is/1C6BkUv59Dm8Nnqeu1FQvDK+ucWLNUpTYMUL3CNZSG2AxGx5UdD+s7U3D
+MsRPNb5f3anCei6ETKTv+e2FaWmNpLUFja57shRtjAs1M8bz/a8=
+=2P7D
 -----END PGP SIGNATURE-----
